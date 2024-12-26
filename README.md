@@ -23,10 +23,12 @@ This repository contains the final exam project for Semester 3 in C#. The projec
 
 ## Features
 
-- **User Authentication:** Secure login and registration system.
-- **Data Management:** CRUD operations for managing data.
-- **Reporting:** Generate and export reports in various formats.
-- **Responsive UI:** User-friendly interface that works across different devices.
+- **Circle Area Calculation:** Calculate the area of a circle using the radius.
+- **Pentagon Area Calculation:** Calculate the area of a pentagon using the side length.
+- **Octagon Area Calculation:** Calculate the area of an octagon using the side length.
+- **Rectangle Area Calculation:** Calculate the area of a rectangle using the side lengths.
+- **Square Area Calculation:** Calculate the area of a square using the width and height.
+- **Parallelogram Area Calculation:** Calculate the area of a parallelogram using the base and height.
 
 ## Contributing
 
