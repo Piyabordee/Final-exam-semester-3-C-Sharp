@@ -7,7 +7,6 @@ This repository contains the final exam project for Semester 3 in C#. The projec
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Video Demonstration](#video-demonstration)
 
 ## Installation
@@ -47,10 +46,6 @@ We welcome contributions to enhance this project. Please follow these steps:
    git push origin feature-name
    ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Video Demonstration
 
